@@ -1,6 +1,4 @@
-# tnews
-
-True News Detection
+# Fake News Detection
 
 ## Getting Started
 
